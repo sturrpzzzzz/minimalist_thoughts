@@ -1,0 +1,12 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+button {
+  background: rgba(28,154,34,0.44);
+    border: rgb(61,1,61) solid 3px;
+}
